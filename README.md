@@ -1,0 +1,2 @@
+# Hi, I'm Fortunato De Angelis 🖖🏽👨🏼‍💻
+<img src="https://raw.githubusercontent.com/fortunato-deangelis/fortunato-deangelis/main/github-header-image.png" alt="banner that says Fortunato De Angelis - software engineer, software developer, scrum master and engineering manager a cartoon illustration of Fortunato De Angelis">
