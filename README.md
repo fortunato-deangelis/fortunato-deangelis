@@ -11,6 +11,7 @@
 * 🛠️ If you're looking for someone who can do pair programming, review your PR with the precision of a laser, and tell you “but you could have done that with a regex,” you're in the right place.
 
 ## Tech stack
+<img src="assets/techstack-section.png" alt="banner depicting a cartoon batman like Fortunato De Angelis" width="200px" align="left">
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
